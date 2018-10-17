@@ -1,0 +1,22 @@
+
+/**
+ * Write a description of class Gibberish here.
+ *
+ * @author (your name)
+ * @version (a version number or a date)
+ */
+public class Gibberish{
+   
+    
+    
+    
+    
+    public Gibberish(){
+        
+        
+        
+    }
+    
+    
+    
+}
