@@ -42,13 +42,13 @@ public class Magpie2
         {
             response = "Tell me more about your family.";
         }
-        else if (statement.indexOf("dog") >= 0)
-                || statement.indexOf("cat") >= 0
-        
+        else if (statement.indexOf("dog") >= 0
+                || statement.indexOf("cat") >= 0)
+                
         {
             response = "Tell me more about your pets.";
         }
-        else
+        
         {
             response = getRandomResponse();
         }
