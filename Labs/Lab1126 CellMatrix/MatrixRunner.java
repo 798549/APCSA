@@ -13,6 +13,6 @@ public class MatrixRunner{
       cm.loadMatrix();
       
       cm.printMatrix();
-      System.out.println("\n\n Largest neighbor value= " +cm.getGreatestNeighbors());
+      System.out.println("\n Largest neighbor value = " +cm.getGreatestNeighbors());
     }
 }

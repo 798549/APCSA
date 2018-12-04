@@ -1,6 +1,5 @@
-
 /**
- * @author (eettlin) 
+ * @author (Jeremiah Ponce) 
  * @version (11 26 18)
  */
 public class Cell

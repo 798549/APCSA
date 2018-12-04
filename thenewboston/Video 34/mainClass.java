@@ -2,7 +2,7 @@ import java.util.Random;
 /**
  * Write a description of class mainClass here.
  *
- * @author (your name)
+ * @author (Jeremiah Ponce)
  * @version (a version number or a date)
  */
 public class mainClass
