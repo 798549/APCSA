@@ -50,7 +50,8 @@ public class CellMatrix{
                 }
                 if (c < cells[0].length-1) {
                     cells[r][c].getNeighbors()[2] = cells[r][c+1];
-                }if (r < cells.length-1) {
+                }
+                if (r < cells.length-1) {
                     cells[r][c].getNeighbors()[3] = cells[r+1][c];
                 }
             }
@@ -90,7 +91,8 @@ public class CellMatrix{
                 }
                 if (r < cells[0].length) {
                     cells[r][c].getNeighbors()[2] = cells[r][c+1];
-                }if (r < cells.length-1) {
+                }
+                if (r < cells.length-1) {
                     cells[r][c].getNeighbors()[3] = cells[r+1][c];
                 }
             }

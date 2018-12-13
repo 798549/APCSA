@@ -573,6 +573,7 @@ public class Picture extends SimplePicture
         else
           leftPixel.setColor(Color.WHITE);
       }
+      
     }
     
     // now compare a pixel with the one below it
