@@ -21,6 +21,7 @@ public class Magpie2
         return "Hello, let's talk.";
     }
     
+    
     /**
      * Gives a response to a user statement
      * 
